@@ -1,0 +1,45 @@
+body{
+background-color: #fab7b7;
+}
+h1{
+  font-family: "Pacifico",cursive;
+  font-weight: bold;
+  font-size: 4rem;
+  color: #f8f3eb;
+  text-align: center;
+  padding: 6% 0;
+  background-color: #b5076b;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+.images{
+  margin-left: 20px;
+}
+.row{
+  content: center;
+  margin-left: 5%;
+  margin-top: 30px;
+}
+.column {
+  float: left;
+  width: 30%;
+  /* padding: 20px; */
+  margin: 2px;
+  border: 5px solid transparent;
+  /* padding: 20px; */
+  /* border-image: url(images/IMG-20200523-WA0039.jpg) 50 round; */
+  border-color:#303960;
+  /* border-radius: 15%; */
+}
+/* .img-fluid{
+  border-radius: 15%;
+} */
+.end{
+  background-color: #b5076b;
+  padding: 5%;
+  font-family: "Pacifico",cursive;
+  margin-top: 30px;
+  margin-bottom:6%;
+  color: #f8f3eb;
+}
+audio { display:none;}
